@@ -1,0 +1,9 @@
+[submodule "lib/SoftWire"]
+	path = lib/SoftWire
+	url = https://github.com/stevemarple/SoftWire.git
+[submodule "lib/AsyncDelay"]
+	path = lib/AsyncDelay
+	url = https://github.com/stevemarple/AsyncDelay.git
+[submodule "lib/PCA9685"]
+	path = lib/PCA9685
+	url = https://github.com/Frogmer/PCA9685.git
